@@ -1,0 +1,22 @@
+{
+  "chainId": 8453,
+  "network": "base-mainnet",
+  "token": {
+    "name": "WTF Token",
+    "symbol": "WTF",
+    "address": "0xEd9E955c2A051812D82db93eC79b45200aD6CD50",
+    "decimals": 4,
+    "totalSupply": "1000000000"
+  },
+  "wallets": {
+    "founder": "0xff87b5739c889dc7041c7E733E801557F0Cfe8Ce",
+    "seed": "0xc9D8019e3D26E08Ff7Eb9b559d35784F64F5E098",
+    "lp": "0x56E81Be2fe2B8D9E51150AB5e3373961918D380A",
+    "burn": "0x9B5a5308CAE69793f984B36b4ceB4C41dec7cb6f",
+    "marketing_dao": "0x89BE23843ea776559f67Cc9B83569b6e81e28504"
+  },
+  "vestingContracts": {
+    "founder": "<add-when-verified>",
+    "seed": "<add-when-verified>"
+  }
+}
