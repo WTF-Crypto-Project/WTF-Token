@@ -15,7 +15,7 @@ Spend, mock, burn, repeat. A meme-driven burn engine on Base Mainnet.
 | Decimals           | 4 |
 | Total Supply       | 1,000,000,000 WTFU |
 | Chain              | Base Mainnet |
-| Explorer           | [View on BaseScan](https://basescan.org/token/0x...) |
+| Explorer           | [View on BaseScan](https://basescan.org/token/0x...)](https://basescan.org/token/0xEd9E955c2A051812D82db93eC79b45200aD6CD50) |
 
 > **Note:** The deployed contract uses symbol `WTF` (immutable).  
 > The official ticker for trading, branding, and exchanges is `WTFU`.
