@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>WTFU 32x32 Icon - Bold Cigar Variant A</title>
+  <!-- Face -->
+  <circle cx="16" cy="16" r="14" fill="#FFD54F" stroke="#C89B00" stroke-width="1.5"/>
+  <!-- Sunglasses band -->
+  <rect x="4.5" y="10.8" width="23" height="3.4" rx="1.2" fill="#000"/>
+  <!-- Lenses -->
+  <rect x="7.5" y="9.8" width="7.6" height="6.2" rx="1.6" fill="#000"/>
+  <rect x="16.9" y="9.8" width="7.6" height="6.2" rx="1.6" fill="#000"/>
+  <!-- Bridge -->
+  <rect x="15.6" y="11.2" width="0.8" height="3.0" rx="0.4" fill="#000"/>
+  <!-- Smirk (thicker) -->
+  <path d="M8.6 21.2 C 11.6 24.2 19.2 23.8 22.2 20.8" fill="none" stroke="#5A360D" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cigar (larger & steeper) -->
+  <g transform="rotate(-18 23 22)">
+    <rect x="18.8" y="21" width="10.6" height="2.8" rx="1.2" fill="#5E3820" stroke="#3E2616" stroke-width="0.6"/>
+    <rect x="22.8" y="21.1" width="2.0" height="2.6" rx="0.6" fill="#D4AF37"/>
+    <rect x="28.6" y="21" width="2.0" height="2.8" rx="0.6" fill="#FF2D20"/>
+  </g>
+</svg>
